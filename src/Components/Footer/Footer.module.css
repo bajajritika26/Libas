@@ -1,0 +1,35 @@
+.footerContainer{
+    background-color: #ffcfd2;
+margin-top: 50px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    color: purple;
+    justify-content: space-around;
+    padding: 50px;
+    width: 85%;
+    margin: auto;
+    line-height: 25px;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+}
+.first h3{
+    font-size: 18px;
+    font-weight: 600;
+margin-left: -5px;
+}
+.first span{
+    font-size: 14px;
+    font-weight: 550;
+
+}
+.first img{
+    height: 28px;
+    margin-right: 12px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,63 @@
+.h1{
+    text-align: left;
+    margin-left: 50px;
+    /* color: rgb(46, 45, 45); */
+    font-size: 2.5rem;
+    color: black;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    width: 90%;
+    margin: auto;
+gap: 20px;
+
+}
+.card{
+/* height:500px; */
+object-fit: cover;
+text-align: left;
+display: flex;
+flex-direction: column;
+gap: 5px;
+}
+.card img{
+    object-fit: cover;
+    height: 380px;
+    width: 300px;
+    border-radius: 5px;
+    margin-bottom: 0;
+}
+.card img:hover{
+    opacity: 0.8;
+}
+.card p{
+    margin-top: -2px;
+    color: rgb(77, 75, 75);
+}
+.card span{
+    margin-top:-20px;
+    color: rgb(77, 75, 75);
+    
+    text-align: left;
+}
+.card button{
+    position: relative;
+    width: 100px;
+    padding: 6px;
+    font-size: 15px;
+    background-color: rgb(153, 30, 153);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    left: 200px;
+    top: -22px;
+
+}
+.card button:hover{
+    background-color: plum;
+}

@@ -1,0 +1,20 @@
+
+.second{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+align-items: center;
+justify-content: center;
+gap: 10px;
+}
+.second img{
+    height: 100px;
+padding: 15px;
+}
+.second hr{
+    height: 120px;
+    width: 0px;
+    padding: 0;
+    margin: 0;
+border: 0.1px solid darkgray;
+}

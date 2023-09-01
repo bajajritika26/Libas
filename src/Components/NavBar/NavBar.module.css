@@ -1,0 +1,72 @@
+.navBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  /* gap: 20px; */
+  background-color: white;
+  padding: 18px;
+  color: black;
+  box-shadow: 0 0 4px 5px rgba(69, 75, 75, 0.386);
+}
+
+.firstDiv {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: purple;
+  margin-left: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.firstDiv img {
+  /* height: 60px; */
+  margin-left: 20px;
+  width: 70px;
+  cursor: pointer;
+}
+.secondDiv {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  gap: 20px;
+  color: black;
+}
+.secondDiv NavLink {
+  text-decoration: none;
+}
+.secondDiv h3 {
+  font-weight: 600;
+  /* margin: 10px; */
+  /* margin-top: 25px; */
+  cursor: pointer;
+  color: black;
+  font-weight: 300;
+  font-size: 17px;
+}
+
+.thirdDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.thirdDiv div {
+  /* display: flex; */
+  /* justify-content: center; */
+  /* margin-left: 20px; */
+  cursor: pointer;
+  margin-right: 10px;
+  text-decoration: none;
+}
+.thirdDiv div img {
+  width: 30px;
+  height: 30px;
+}
+.nav2 img {
+  height: 800px;
+  width: 100vw;
+}

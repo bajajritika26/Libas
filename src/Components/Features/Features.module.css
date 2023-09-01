@@ -1,0 +1,39 @@
+.features {
+  width: 65vw;
+  color: purple;
+  display: flex;
+  flex-direction: column;
+  align-items: last baseline;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+.features ul {
+  list-style: none;
+  /* margin-left: 20px; */
+}
+.features h2,
+h3,
+p {
+  color: purple;
+  text-align: left;
+}
+.features h3 {
+  color: purple;
+  cursor: auto;
+}
+.features h2 {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 8px;
+}
+.features p {
+  letter-spacing: 0.8px;
+  font-weight: 400;
+}
+.hr{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    border:0.2px solid lightgray;
+    width: 100vw;
+}
