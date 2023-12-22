@@ -4,9 +4,9 @@ Deployed : https://moonlit-malasada-bccbb6.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Monkey Mart
+# Libas
 
-Monkey Mart is an e-commerce platform built with [React](https://reactjs.org/) . It allows users to browse and purchase a variety of products online.
+Libas is an e-commerce platform built with [React](https://reactjs.org/) . It allows users to browse and purchase a variety of products online.
 
 ## Features
 
