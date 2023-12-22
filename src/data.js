@@ -129,7 +129,7 @@ export const data = [
 export const BestSellersData = [
     {
         id: 1,
-        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2_9e98b0f8-ac17-4a2d-8c9d-1007c21e6c25_360x.jpg?v=1689067692',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/green-solid-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529862938774_400x.jpg?v=1695035955',
         title : 'Green Kurta Plazzo with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -146,7 +146,7 @@ export const BestSellersData = [
     
     {
         id: 3,
-        img : 'https://www.libas.in/cdn/shop/files/beige-woven-design-silk-straight-kurta-with-dupatta-libas-1_2610d8e5-ec7c-49b6-93b4-6345b64f3f8a_360x.jpg?v=1689078638',
+        img : 'https://www.libas.in/cdn/shop/files/beige-printed-silk-blend-a-line-kurta-with-palazzos-and-dupatta-libas-1-27530421633174_1800x1800.jpg?v=1698675080',
         title : 'Beige Silk Kurta-Pant with Dupatta',
         category : 'silkSet',
         price : 7000,
@@ -154,7 +154,7 @@ export const BestSellersData = [
     },
     {
         id: 4,
-        img : 'https://www.libas.in/cdn/shop/files/teal-yoke-design-silk-kurta-libas-1_360x.jpg?v=1689080165',
+        img : 'https://www.libas.in/cdn/shop/files/teal-yoke-design-silk-kurta-libas-1-27530804887702_1800x1800.jpg?v=1698678596',
         title : 'Teal Silk Kurta',
         category : 'kurta',
         price : 2800,
@@ -166,7 +166,7 @@ export const CottonSetsData = [
 
     {
         id: 1,
-        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2_9e98b0f8-ac17-4a2d-8c9d-1007c21e6c25_360x.jpg?v=1689067692',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/green-solid-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529862938774_400x.jpg?v=1695035955',
         title : 'Green Kurta pant with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -174,7 +174,7 @@ export const CottonSetsData = [
     },
     {
         id: 2,
-        img : 'https://www.libas.in/cdn/shop/files/yellow-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-1_bc40b1fc-578e-43c9-8967-1d3c19e8c23f_1800x1800.jpg?v=1689070539',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/yellow-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27530120986774_400x.jpg?v=1695038281',
         title : 'Yellow printed Kurta Plazzo with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -182,7 +182,7 @@ export const CottonSetsData = [
     },
     {
         id: 3,
-        img : 'https://www.libas.in/cdn/shop/files/yellow-printed-cotton-a-line-kurta-with-palazzos-and-dupatta-libas-2_a4d0032c-c914-4669-a380-fe02f09a4cb1_360x.jpg?v=1689064547',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/yellow-yoke-design-silk-a-line-kurta-libas-2_400x.jpg?v=1698687328',
         title : 'Yellow A-line Kurta pant with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -190,7 +190,7 @@ export const CottonSetsData = [
     },
     {
         id: 4,
-        img : 'https://www.libas.in/cdn/shop/files/mustard-yoke-design-cotton-a-line-kurta-with-palazzos-and-dupatta-libas-1_37b89f1e-2bf5-44d4-9373-7e1e7ee453d3_1800x1800.jpg?v=1689085625',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/35201W_2_400x.jpg?v=1701423929',
         title : 'Mustard Yoke Kurta pant with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -198,7 +198,7 @@ export const CottonSetsData = [
     },
     {
         id: 5,
-    img:'https://www.libas.in/cdn/shop/files/maroon-printed-cotton-straight-kurta-with-salwar-libas-2_3948a87b-9d08-4b89-8098-790fba29ed8e_360x.jpg?v=1689085730',
+    img:'https://www.libas.in/cdn/shop/files/maroon-solid-cotton-kurta-libas-2-27529785802902_360x.jpg?v=1693584751',
     
         title : 'Maroon Printed Kurta with salwar',
         category : 'cottonSet',
@@ -207,7 +207,7 @@ export const CottonSetsData = [
     },
     {
         id: 6,
-        img : 'https://www.libas.in/cdn/shop/files/pink-printed-cotton-anarkali-kurti-with-sharara-and-dupatta-libas-1_1800x1800.jpg?v=1689085572',
+        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2_9e98b0f8-ac17-4a2d-8c9d-1007c21e6c25_360x.jpg?v=1689067692',
         title : 'Green Kurta pant with dupatta',
         category : 'cottonSet',
         price : 2300,
@@ -215,7 +215,7 @@ export const CottonSetsData = [
     },
     {
         id: 7,
-        img : 'https://www.libas.in/cdn/shop/files/pink-printed-cotton-anarkali-kurti-with-sharara-and-dupatta-libas-2_2050c6c0-cfc0-458e-92fe-a6a24ad616b3_360x.jpg?v=1689085550',
+        img : 'https://www.libas.in/cdn/shop/files/SUITS_New_540x.jpg?v=1692180088',
         title : 'Pink Printed Anarkali with Sharara',
         category : 'cottonSet',
         price : 1200,
@@ -257,7 +257,7 @@ export const CottonSetsData = [
     },
     {
         id: 12,
-        img : 'https://www.libas.in/cdn/shop/files/yellow-printed-cotton-a-line-kurta-with-palazzos-and-dupatta-libas-2_a4d0032c-c914-4669-a380-fe02f09a4cb1_360x.jpg?v=1689064547',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/yellow-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27530120986774_400x.jpg?v=1695038281',
         title : 'Yellow A-line Kurta pant with dupatta',
         category : 'cottonSet',
         price : 4000,
