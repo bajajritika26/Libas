@@ -1,4 +1,4 @@
-Deployed : https://monkey-mart.netlify.app/
+Deployed : https://moonlit-malasada-bccbb6.netlify.app/
 
 # Getting Started with Create React App
 
