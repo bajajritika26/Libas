@@ -2,6 +2,7 @@ export const data = [
     {
         id: 1,
         img : 'https://www.libas.in/cdn/shop/files/green-solid-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529862938774_360x.jpg?v=1695035955',
+        title : 'Green Kurta Pant with Dupatta',
         category : 'cottonSet',
         price : 4000,
         value : 'Add To Cart'
@@ -11,6 +12,7 @@ export const data = [
     {
         id: 2,
         img : 'https://www.libas.in/cdn/shop/files/beige-printed-silk-blend-a-line-kurta-with-palazzos-and-dupatta-libas-1-27530421633174_1800x1800.jpg?v=1698675080',
+        title : 'Beige Silk Kurta Pant with Dupatta',
         category : 'silkSet',
         price : 7000,
         value : 'Add To Cart'
