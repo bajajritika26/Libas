@@ -209,7 +209,7 @@ export const CottonSetsData = [
     },
     {
         id: 6,
-        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2_9e98b0f8-ac17-4a2d-8c9d-1007c21e6c25_360x.jpg?v=1689067692',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/48373_1_400x.jpg?v=1700201568',
         title : 'Green Kurta pant with dupatta',
         category : 'cottonSet',
         price : 2300,
