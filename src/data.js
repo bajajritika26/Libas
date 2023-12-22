@@ -1,8 +1,7 @@
 export const data = [
     {
         id: 1,
-        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2_9e98b0f8-ac17-4a2d-8c9d-1007c21e6c25_360x.jpg?v=1689067692',
-        title : 'Green Kurta pant with dupatta',
+        img : 'https://www.libas.in/cdn/shop/files/green-solid-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529862938774_360x.jpg?v=1695035955',
         category : 'cottonSet',
         price : 4000,
         value : 'Add To Cart'
@@ -11,8 +10,7 @@ export const data = [
     
     {
         id: 2,
-        img : 'https://www.libas.in/cdn/shop/files/beige-woven-design-silk-straight-kurta-with-dupatta-libas-1_2610d8e5-ec7c-49b6-93b4-6345b64f3f8a_360x.jpg?v=1689078638',
-        title : 'Beige Silk Kurta-Pant with Dupatta',
+        img : 'https://www.libas.in/cdn/shop/files/beige-printed-silk-blend-a-line-kurta-with-palazzos-and-dupatta-libas-1-27530421633174_1800x1800.jpg?v=1698675080',
         category : 'silkSet',
         price : 7000,
         value : 'Add To Cart'
@@ -70,7 +68,7 @@ export const data = [
 
     {
         id: 9,
-        img : 'https://www.libas.in/cdn/shop/files/teal-yoke-design-silk-kurta-libas-1_360x.jpg?v=1689080165',
+        img : 'https://www.libas.in/cdn/shop/files/teal-yoke-design-silk-kurta-libas-2-27530805182614_360x.jpg?v=1698678598',
         title : 'Teal Silk Kurta',
         category : 'kurta',
         price : 2800,
@@ -79,7 +77,7 @@ export const data = [
 
     {
         id: 10,
-        img : 'https://www.libas.in/cdn/shop/files/teal-yoke-design-silk-kurta-libas-2_360x.jpg?v=1689080169',
+        img : 'https://www.libas.in/cdn/shop/files/teal-yoke-design-silk-kurta-libas-2-27530805182614_360x.jpg?v=1698678598',
         title : 'Teal Silk Kurta Set',
         category : 'silkSet',
         price : 3600,
@@ -96,7 +94,7 @@ export const data = [
     },
     {
         id: 12,
-        img : 'https://www.libas.in/cdn/shop/files/50157_1_1800x1800.jpg?v=1689847637',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/green-printed-cotton-night-suit-libas-2_400x.jpg?v=1698684646',
         title : 'Green printed Coord Sets',
         category : 'coords',
         price : 2000,
@@ -112,7 +110,7 @@ export const data = [
     },
     {
         id: 14,
-        img : 'https://www.libas.in/cdn/shop/files/yellow-printed-cotton-a-line-kurta-with-palazzos-and-dupatta-libas-2_a4d0032c-c914-4669-a380-fe02f09a4cb1_360x.jpg?v=1689064547',
+        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/yellow-yoke-design-silk-a-line-kurta-libas-2_400x.jpg?v=1698687328',
         title : 'Yellow A-line Kurta pant with dupatta',
         category : 'cottonSet',
         price : 4000,
