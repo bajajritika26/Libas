@@ -9,7 +9,7 @@ const Featured = () => {
     <>
       <div className={styles.first} >
         <NavLink to="/all-products">
-        <img src="https://www.libas.in/cdn/shop/files/desktop-rakhi-banner_new_1500x.jpg?v=1692431118" alt=""/>
+        <img src="https://www.libas.in/cdn/shop/files/Valinties-day-desktop_1500x.jpg?v=1707110689" alt=""/>
         {/* <img src="https://www.libas.in/cdn/shop/files/desktop-banner-new-in_7340fe80-a6b9-4757-bb7b-9f41ca5ddebd_1500x.jpg?v=1691464551" alt=""/> */}
         </NavLink>
       </div>
