@@ -1,7 +1,7 @@
 export const data = [
     {
         id: 1,
-        img : 'https://www.libas.in/cdn/shop/files/green-solid-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529862938774_360x.jpg?v=1695035955',
+        img : 'https://www.libas.in/cdn/shop/files/mobile-wollen-treasure_b5229d48-8dae-4fe0-a2cc-cf055c8b92f4_540x.jpg?v=1702718884',
         title : 'Green Kurta Pant with Dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -11,7 +11,7 @@ export const data = [
     
     {
         id: 2,
-        img : 'https://www.libas.in/cdn/shop/files/beige-printed-silk-blend-a-line-kurta-with-palazzos-and-dupatta-libas-1-27530421633174_1800x1800.jpg?v=1698675080',
+        img : 'https://www.libas.in/cdn/shop/files/beige-woven-design-silk-straight-kurta-with-trouser-and-dupatta-libas-1_1800x1800.jpg?v=1705680377',
         title : 'Beige Silk Kurta Pant with Dupatta',
         category : 'silkSet',
         price : 7000,
@@ -96,7 +96,7 @@ export const data = [
     },
     {
         id: 12,
-        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/green-printed-cotton-night-suit-libas-2_400x.jpg?v=1698684646',
+        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-night-suit-libas-1-27716998987926_1800x1800.jpg?v=1705686593',
         title : 'Green printed Coord Sets',
         category : 'coords',
         price : 2000,
@@ -112,7 +112,7 @@ export const data = [
     },
     {
         id: 14,
-        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/yellow-yoke-design-silk-a-line-kurta-libas-2_400x.jpg?v=1698687328',
+        img : 'https://www.libas.in/cdn/shop/files/green-printed-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529917268118_360x.jpg?v=1694501921',
         title : 'Yellow A-line Kurta pant with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -131,7 +131,7 @@ export const data = [
 export const BestSellersData = [
     {
         id: 1,
-        img : 'https://cdn.shopify.com/s/files/1/0341/4805/7228/files/green-solid-cotton-straight-kurta-with-palazzos-and-dupatta-libas-2-27529862938774_400x.jpg?v=1695035955',
+        img : 'https://www.libas.in/cdn/shop/files/mobile-wollen-treasure_b5229d48-8dae-4fe0-a2cc-cf055c8b92f4_540x.jpg?v=1702718884',
         title : 'Green Kurta Plazzo with dupatta',
         category : 'cottonSet',
         price : 4000,
@@ -148,7 +148,7 @@ export const BestSellersData = [
     
     {
         id: 3,
-        img : 'https://www.libas.in/cdn/shop/files/beige-printed-silk-blend-a-line-kurta-with-palazzos-and-dupatta-libas-1-27530421633174_1800x1800.jpg?v=1698675080',
+        img : 'https://www.libas.in/cdn/shop/files/beige-woven-design-silk-straight-kurta-with-trouser-and-dupatta-libas-1_1800x1800.jpg?v=1705680377',
         title : 'Beige Silk Kurta-Pant with Dupatta',
         category : 'silkSet',
         price : 7000,
